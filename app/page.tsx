@@ -34,6 +34,13 @@ export default function Home() {
           >
             Browse Posts
           </Link>
+
+          <Link
+            href="/feature/route"
+            className="block w-full py-3 px-4 text-center text-gray-700 bg-gray-100 hover:bg-gray-200 rounded-lg font-medium transition duration-200"
+          >
+            Nextjs,Route
+          </Link>
         </div>
 
         <div className="text-center text-sm text-gray-500 mt-8">
